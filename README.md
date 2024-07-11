@@ -1,7 +1,7 @@
 # Image Classifier
 
 This project uses React.js for the frontend and Django for the backend to create an image classifier.   
-Users can upload images, which are then classified using a pre-trained machine learning model.
+Users can upload images, which are then classified using a pre-trained machine learning model.  
 It could be used for visual learning to help young kids learn words associated with images.
 
 ## Technologies Used
@@ -40,3 +40,9 @@ It could be used for visual learning to help young kids learn words associated w
 2. **Start the React development server:**  
     `cd frontend`  
     `npm run dev`
+
+## Project Screenshots
+![home](https://github.com/rabika-p/image-classifier/assets/60596856/1619125d-29a7-49ae-8455-82502706e6da)
+![classification_results](https://github.com/rabika-p/image-classifier/assets/60596856/e5e38f7f-7c7b-4b8b-802c-97aefc742ae6)
+
+
